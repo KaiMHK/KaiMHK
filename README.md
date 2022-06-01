@@ -1,4 +1,0 @@
-- 👋 Hi, I’m @KaiMHK
-- 👀 I’m UCSD senior student.
-- 🌱 I’m Major in Math and Computer Science.
-- 📫 How to reach me maohk0117@gmail.com
